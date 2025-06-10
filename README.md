@@ -7,10 +7,7 @@
     <img height="20" src="https://img.shields.io/github/followers/Keichan15?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/ks415">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/ks415/posts.svg" />
-  </a>
-  <a href="http://qiita.com/ks415">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/ks415/contributions.svg" />
+    <img src="https://badgen.org/img/qiita/ks415/articles?style=flat" alt="Articles" /></a>
   </a>
 </p>
 
