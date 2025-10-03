@@ -27,11 +27,11 @@
 
 ![](https://skillicons.dev/icons?i=windows,apple,ubuntu,vscode,docker,git,github,githubactions,postman,notion,discord,vercel,aws)
 
-<h2>🔗 &nbsp;Links</h2>
+<!-- <h2>🔗 &nbsp;Links</h2>
 
 <h3>🌐 &nbsp;Profiles<h3>
 
-- [Qiita](https://qiita.com/ks415)
+- [Qiita](https://qiita.com/ks415) -->
 
 <h2>⚡ &nbsp;GitHub Stats</h2>
 
