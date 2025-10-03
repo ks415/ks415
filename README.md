@@ -5,7 +5,7 @@
 
 - 🎓 I am in my first year of my master's in computer science.
 
-- 💻 I'm currently working as an AI Engineer at [Athena Technologies](https://athenatech.jp/) (2025/2~).
+- 💻 I'm currently working as an ML Engineer at [Athena Technologies](https://athenatech.jp/) (2025/2~).
 
 <!-- TODO: -->
 <!-- ## 🌱 Currently Exploring -->
