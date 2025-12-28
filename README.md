@@ -3,9 +3,12 @@
 
 <h2>👨‍💻 &nbsp;About Me</h2>
 
-- 🎓 I am in my first year of my master's in computer science.
+🏢 Osaka Metropolitan University, Graduate School of Informatics
+ - 👁️‍🗨️ Vision Language Models (VLMs)
+ - 📸 Few-shot Learning Research
 
-- 💻 I'm currently working as an ML Engineer at [Athena Technologies](https://athenatech.jp/) (2025/2~).
+🧑‍💻 Career
+ - 🏢 [Athena Technologies](https://athenatech.jp/) (2025/2-2025/12) : AI Engineer
 
 <!-- TODO: -->
 <!-- ## 🌱 Currently Exploring -->
