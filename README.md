@@ -39,10 +39,28 @@
 
 <h2>⚡ &nbsp;GitHub Stats</h2>
 
-<p align="left"> 
+<!-- <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks415&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ks415&theme=onedark&show_icons=ture" />
+</p> -->
+
+<p>
+  <a href="https://github.com/ks415">
+    <img
+      align="left"
+      height="170px"
+      src="https://readme-stats-silk-one.vercel.app/api?username=ks415&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true"
+    />
+  </a>
+  <a href="https://github.com/ks415">
+    <img
+      align="left"
+      height="170px"
+      src="https://readme-stats-silk-one.vercel.app/api/top-langs/?username=ks415&layout=compact&theme=github_dark&count_private=true&include_all_commits=true"
+    />
+  </a>
 </p>
+
 
 <!--
 **ks415/ks415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
