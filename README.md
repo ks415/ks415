@@ -49,14 +49,14 @@
     <img
       align="left"
       height="170px"
-      src="https://readme-stats-silk-one.vercel.app/api?username=ks415&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true"
+      src="https://readme-stats-multiuser-ks415.vercel.app/api?usernames=ks415,so-kawagoe&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true"
     />
   </a>
   <a href="https://github.com/ks415">
     <img
       align="left"
       height="170px"
-      src="https://readme-stats-silk-one.vercel.app/api/top-langs/?username=ks415&layout=compact&theme=github_dark&count_private=true&include_all_commits=true"
+      src="https://readme-stats-multiuser-ks415.vercel.app/api/top-langs/?usernames=ks415,so-kawagoe&layout=compact&theme=github_dark&count_private=true&include_all_commits=true"
     />
   </a>
 </p>
