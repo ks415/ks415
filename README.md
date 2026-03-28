@@ -9,7 +9,7 @@
 
 🧑‍💻 Career
  - 🏢 [Athena Technologies](https://athenatech.jp/) (2025/2-2025/12) : AI Engineer
- - 🏢 [Matsuo Institute](https://matsuo-institute.com/) (2026/1-) : AI Engineer
+ - 🏢 [Matsuo Institute](https://matsuo-institute.com/) (2026/1-) : Data Scientist
 
 <!-- TODO: -->
 <!-- ## 🌱 Currently Exploring -->
